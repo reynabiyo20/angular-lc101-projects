@@ -1,0 +1,18 @@
+.background {
+    background-image: url("http://gdj.graphicdesignjunction.com/wp-content/uploads/2014/05/001+background+pattern+designs.jpg");
+}
+
+.container {
+background-color: pink;
+border: purple;
+border: solid;
+border-radius: 10px;
+}
+
+.row {
+    justify-content: space-evenly;
+}
+.col-3 {
+background-color: darkkhaki;
+
+}
